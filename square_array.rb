@@ -6,7 +6,6 @@ return new_array
 end
 
 array = [1,2,3]
-square_array(numbers)
 array.collect do|numbers|
 puts numbers ** 2
 numbers ** 2 
